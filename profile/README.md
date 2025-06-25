@@ -2,7 +2,7 @@
 
 Harmless is a deceptively simple subtractive synthesizer for FL Studio that uses additive synthesis under the hood. It delivers warm, clean tones and expressive filters with intuitive controls — perfect for electronic music producers, sound designers, and live performers.
 
-[![Download](https://img.shields.io/badge/Download-Harmless_for_FL_Studio-blueviolet)](PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download](https://img.shields.io/badge/Download-Harmless_for_FL_Studio-blueviolet)](harmless-fl-studio-plugin.github.io)
 
 ---
 
